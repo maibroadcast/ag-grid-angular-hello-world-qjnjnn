@@ -16,23 +16,24 @@ export class AppComponent  {
     ];
 
     rowData = [
-        { NAMA PENGELUAR NOTIS: 'PP AZIZAN', 'JENIS NOTIS': 'Celica', 'JUMLAH NOTIS' ice: 35000 },
-        { KPPPP RIDHUAN: 'Ford', model: 'Mondeo', price: 32000 },
-        { PP K. ADLIZAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ AB29 ZULHILMI: 'Porsche', model: 'Boxter', price: 72000 }
-		{ AB29 POK NIK : 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP29 RUSAIRI : 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP29 HAKEMI  : 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 BOB: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 AHHHH: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHAD: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHADAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHADDLIZAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHADIZAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ PP K. ADLIZAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHADLIZAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHADZAM: 'Porsche', model: 'Boxter', price: 72000 }
-		{ KP19 JADSJHADZAM: 'Porsche', model: 'Boxter', price: 72000 }
+        { NAMA PENGELUAR NOTIS: 'JENIS NOTIS': 'Celica', 'JUMLAH NOTIS',
+        { KPPPP RIDHUAN: 'Ford', 'JENIS NOTIS': 'Mondeo', price: 32000 },
+        { PP MUHAMMAD AZIZAN:                                  }
+        { PP K. ADLIZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ AB29 ZULHILMI: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ AB29 POK NIK : 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP29 RUSAIRI : 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP29 HAKEMI  : 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 BOB: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 AHHHH: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHAD: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHADAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHADDLIZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHADIZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ PP K. ADLIZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHADLIZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHADZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
+		{ KP19 JADSJHADZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
 		{ 
     ];
 
