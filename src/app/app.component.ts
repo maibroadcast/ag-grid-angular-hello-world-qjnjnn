@@ -17,7 +17,7 @@ export class AppComponent  {
 
     rowData = [
         { NAMA PENGELUAR NOTIS: 'JENIS NOTIS': 'Celica', 'JUMLAH NOTIS',
-        { KPPPP RIDHUAN: 'Ford', 'JENIS NOTIS': 'Mondeo', price: 32000 },
+        { KPPPP RIDHUAN: 'Ford', 'JENIS NOTIS': },
         { PP MUHAMMAD AZIZAN:                                  }
         { PP K. ADLIZAM: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
 		{ AB29 ZULHILMI: 'Porsche', 'JENIS NOTIS': 'Boxter', 'JUMLAH NOTIS': 72000 }
